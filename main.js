@@ -29,4 +29,14 @@ three.right = two;
 tree.left = three;
 tree.right = ten;
 
+/*
+    __6__ 
+   /     \
+  3       10
+ / \     /  \
+1   2   8   12
+       / \
+      7   9
+*/
+
 console.log(tree);
